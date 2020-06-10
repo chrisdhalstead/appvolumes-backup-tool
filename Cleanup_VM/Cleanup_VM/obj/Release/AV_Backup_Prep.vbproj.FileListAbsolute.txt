@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Release\AV_Backup_Prep.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Release\AV_Backup_Prep.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Release\AV_Backup_Prep.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Release\AV_Backup_Prep.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Release\AV_Backup_Prep.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Release\AV_Backup_Prep.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Release\AV_Backup_Prep.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Release\AV_Backup_Prep.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Release\AV_Backup_Prep.pdb

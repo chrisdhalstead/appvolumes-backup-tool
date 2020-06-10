@@ -1,0 +1,16 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Release\Backup_AppStacks.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Release\Backup_AppStacks.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Release\Backup_AppStacks.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Release\Backup_AppStacks.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.Form1.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.dlgav.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.dlgvc.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.dlgApps.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.dlgCreateVM.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.DlgDS.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Release\Backup_AppStacks.vbprojResolveAssemblyReference.cache

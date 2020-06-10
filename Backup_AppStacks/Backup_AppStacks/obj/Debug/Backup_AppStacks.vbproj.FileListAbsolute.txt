@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Debug\Backup_AppStacks.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Debug\Backup_AppStacks.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Debug\Backup_AppStacks.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\bin\Debug\Backup_AppStacks.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.Form1.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.Dialog1.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Backup_AppStacks\Backup_AppStacks\obj\Debug\Backup_AppStacks.Dialog2.resources

@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Debug\Pre_AV_Backup.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Debug\Pre_AV_Backup.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Debug\Pre_AV_Backup.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\bin\Debug\Pre_AV_Backup.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\Cleanup_VM\Cleanup_VM\obj\Debug\Pre_AV_Backup.vbproj.GenerateResource.Cache
