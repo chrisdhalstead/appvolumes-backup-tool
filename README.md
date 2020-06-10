@@ -1,5 +1,5 @@
 # appvolumes-backup-tool
-Utility to Backup AppVolumes
+Utility to Backup VMware AppVolumes 2.x
 Chris Halstead
 @chrisdhalstead
 
